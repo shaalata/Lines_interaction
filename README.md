@@ -1,0 +1,3 @@
+# Lines interaction 
+
+the code pretend to calculate the .....
