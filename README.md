@@ -5,7 +5,7 @@ in the following oder;
 
 name of the file: (start point, end point)
 
-example
+example;
 
 dict = {
 A:(5,8)
